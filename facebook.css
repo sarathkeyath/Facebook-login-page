@@ -1,0 +1,186 @@
+@font-face {
+    font-family: fbfont;
+    src: url(fb.otf);
+}
+
+
+
+
+.part1{
+    /* background-color: #3c5b9d; */
+    background-image: linear-gradient(#6185d2f1,#082054e1);
+    
+
+}
+.fh{
+    font-family: fbfont;
+    font-size: 35px;
+    color: aliceblue;
+    padding-top: 40px;
+    padding-left: 20px;
+    margin-top: 0;
+
+}
+body{
+    margin:0;
+    
+    
+}
+.reg{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 13px;
+    margin-left: 37%;
+    padding-top: 5px;
+    position: absolute;
+    top: 2px;
+    right: 100px;
+}
+.table1{
+    border-collapse: separate;
+    border-spacing: 10px;
+    text-align: left;
+}
+.loginbutton{
+    background-color:  #5a89ed;
+    border: none;
+    cursor: pointer;
+    color: white;
+    padding: 2px;
+}
+.forgottenlink{
+    color: rgba(255, 255, 255, 0.536);
+}   
+td{
+    border: none;
+}
+    
+
+
+.part1{
+    height: 130px;
+}
+.world{
+    height: 370px;
+    width: 670px;
+    padding-left: 60px;
+}
+.create-account{
+    display: inline-block;
+    padding-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: rgba(23, 23, 23, 0.842);
+    position: absolute;
+    right: 250px;
+   
+}
+.quick-easy{
+    display: inline-block;
+    position: absolute;
+    right: 410px;
+    top: 210px;
+    color: rgba(23, 23, 23, 0.842);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
+}
+/* ____________________________________________________ */
+
+.reg-form{
+    display: inline-block;
+    position: absolute;
+    right: 93px;
+    top: 280px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+    
+}
+/* .reg-table-td{
+    padding: 10px;
+} */
+.fsm{
+    height: 35px;
+    /* width: 200px; */
+    border-color: rgba(84, 90, 93, 0.201);
+    font-weight: normal;
+    color: rgba(120, 120, 120, 0.803);
+    font-size: 18px;
+    font-weight: strong;
+    border-radius: 5px;
+    
+    
+}
+.part2{
+    background-image: linear-gradient(white,#3c5b9d2e);
+    height: 630px;
+}
+.sign-up-button{
+    background-color: rgb(65, 163, 65);
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    border-color: rgba(84, 90, 93, 0.201);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    background-image: linear-gradient(rgb(64, 173, 64),rgb(28, 136, 28));
+    /* position: relative; */
+    /* top: 50px; */
+}
+.sign-up-button:hover{
+    cursor: pointer;
+    box-shadow: 4px 6px 5px 5px rgba(0, 0, 0, 0.343);
+}
+@font-face {
+    font-family: birthday;
+    src: url(Quan-Regular.ttf);
+}
+
+.birthday{
+    padding-top: 20px;
+    font-family: birthday;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(27, 40, 54, 0.593);
+
+
+}
+.gen{
+    float: left;
+    list-style-type: none;
+    font-family: birthday;
+    font-weight: bold;
+    text-align: left;
+    font-size: 23px;
+    color: rgba(51, 53, 56, 0.922);
+}
+
+.gen1{
+   position: relative;
+   right: 46px;
+}
+.gen3{
+    
+    position: relative;
+    left: 46px;
+}
+.gen{
+    position: relative;
+    bottom: 10px;
+}
+.reg-table-td{
+    padding-top: 7px;
+}
+.terms{
+    color: rgba(27, 40, 54, 0.744);
+    position: relative;
+    bottom: 28px;
+    
+}
+a{
+    text-decoration: none;
+
+}
